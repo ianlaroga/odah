@@ -1,1 +1,1 @@
-<?php header("Location:views/home/home.php");   ?>
+<?php echo "asd";   ?>
